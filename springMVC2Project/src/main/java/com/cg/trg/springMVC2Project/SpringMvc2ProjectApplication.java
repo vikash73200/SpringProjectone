@@ -8,6 +8,7 @@ public class SpringMvc2ProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringMvc2ProjectApplication.class, args);
+		System.out.println("this is my SpringMVC project");
 	}
 
 }
